@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/conf/routes
-// @DATE:Sat Jan 02 21:07:43 EST 2016
+// @DATE:Sat Jan 02 22:09:29 EST 2016
 
 package controllers;
 

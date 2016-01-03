@@ -6,6 +6,7 @@
         <entry key="admin">
           <value>
             <ProjectSettingsEntry>
+              <option name="sourceDir" value="$PROJECT_DIR$/app" />
               <option name="confDir" value="$PROJECT_DIR$/app" />
               <option name="templateImports">
                 <list>
@@ -38,6 +39,7 @@
         <entry key="common">
           <value>
             <ProjectSettingsEntry>
+              <option name="sourceDir" value="$PROJECT_DIR$/app" />
               <option name="confDir" value="$PROJECT_DIR$/app" />
               <option name="templateImports">
                 <list>
@@ -77,6 +79,7 @@
         <entry key="root">
           <value>
             <ProjectSettingsEntry>
+              <option name="sourceDir" value="$PROJECT_DIR$/app" />
               <option name="confDir" value="$PROJECT_DIR$/app" />
               <option name="templateImports">
                 <list>
@@ -109,6 +112,7 @@
         <entry key="user">
           <value>
             <ProjectSettingsEntry>
+              <option name="sourceDir" value="$PROJECT_DIR$/app" />
               <option name="confDir" value="$PROJECT_DIR$/app" />
               <option name="templateImports">
                 <list>

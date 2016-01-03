@@ -2,8 +2,8 @@ name := """admin"""
 
 version := "1.0-SNAPSHOT"
 
-lazy val common = (project in file("../common")).enablePlugins(PlayJava)
-lazy val admin = (project in file(".")).enablePlugins(PlayJava)
+lazy val common = (project in file("../common")).enablePlugins(PlayJava, PlayEbean)
+lazy val admin = (project in file(".")).enablePlugins(PlayJava, PlayEbean)
   .aggregate(common)
   .dependsOn(common)
 
