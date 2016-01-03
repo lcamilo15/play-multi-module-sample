@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/conf/application.conf,/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/conf/logback.xml,/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/conf/routes,/Users/lcamilo/Documents/Projects/personal_project/multi-module-sample-project/target/scala-2.11/classes/routes)[0m
